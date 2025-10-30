@@ -66,3 +66,12 @@ DATABASES = {
     }
 }
 ```
+
+```env
+user=USER
+password=PASSWORD
+host=HOST
+port=PORT
+dbname=NAME
+```
+
